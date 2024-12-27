@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anuradha_nikam\\source\\repos\\AnuFunctionApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D9F20-ECBA-476C-9F21-6A3C32690DB5}|AnuFunctionApp3\\AnuFunctionApp3.csproj|c:\\users\\anuradha_nikam\\source\\repos\\anufunctionapp3\\anufunctionapp3\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F5D9F20-ECBA-476C-9F21-6A3C32690DB5}|AnuFunctionApp3\\AnuFunctionApp3.csproj|solutionrelative:anufunctionapp3\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D9F20-ECBA-476C-9F21-6A3C32690DB5}|AnuFunctionApp3\\AnuFunctionApp3.csproj|c:\\users\\anuradha_nikam\\source\\repos\\anufunctionapp3\\anufunctionapp3\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D9F20-ECBA-476C-9F21-6A3C32690DB5}|AnuFunctionApp3\\AnuFunctionApp3.csproj|solutionrelative:anufunctionapp3\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\anuradha_nikam\\source\\repos\\AnuFunctionApp3\\AnuFunctionApp3\\local.settings.json",
+              "RelativeDocumentMoniker": "AnuFunctionApp3\\local.settings.json",
+              "ToolTip": "C:\\Users\\anuradha_nikam\\source\\repos\\AnuFunctionApp3\\AnuFunctionApp3\\local.settings.json",
+              "RelativeToolTip": "AnuFunctionApp3\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T07:27:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\anuradha_nikam\\source\\repos\\AnuFunctionApp3\\AnuFunctionApp3\\Function1.cs",
+              "RelativeDocumentMoniker": "AnuFunctionApp3\\Function1.cs",
+              "ToolTip": "C:\\Users\\anuradha_nikam\\source\\repos\\AnuFunctionApp3\\AnuFunctionApp3\\Function1.cs",
+              "RelativeToolTip": "AnuFunctionApp3\\Function1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:17:07.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
